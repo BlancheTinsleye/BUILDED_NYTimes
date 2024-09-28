@@ -1,4 +1,4 @@
-7355
+7336
 53/root/ASHLEY/docs/dist/typewcond_regular.452d8221.otf1727507305698951938 0
 55/root/ASHLEY/docs/dist/Berkahi Blackletter.73012231.ttf1727507305698951938 0
 45/root/ASHLEY/docs/dist/index.1e754013.css.map1727507305698951938 0
@@ -7,13 +7,13 @@
 40/root/ASHLEY/docs/dist/index.fa33634d.js1727507305698951938 0
 45/root/ASHLEY/docs/dist/OldLondon.ae71df83.ttf1727507305698951938 0
 17/root/ASHLEY/docs1727507305698951938 1
-48/root/ASHLEY/dist/typewcond_regular.452d8221.otf1727508119778945439 0
-50/root/ASHLEY/dist/Berkahi Blackletter.73012231.ttf1727508119788945437 0
-28/root/ASHLEY/dist/index.html1727508120158945446 0
-40/root/ASHLEY/dist/OldLondon.ae71df83.ttf1727508119818945440 0
-36/root/ASHLEY/dist/index.1e754013.css1727508120158945446 0
-35/root/ASHLEY/dist/index.079541b2.js1727508120158945446 0
-17/root/ASHLEY/dist1727508120158945446 1
+48/root/ASHLEY/dist/typewcond_regular.452d8221.otf1727507305698951938 0
+50/root/ASHLEY/dist/Berkahi Blackletter.73012231.ttf1727507305698951938 0
+28/root/ASHLEY/dist/index.html1727507305698951938 0
+40/root/ASHLEY/dist/OldLondon.ae71df83.ttf1727507305698951938 0
+36/root/ASHLEY/dist/index.1e754013.css1727507305698951938 0
+35/root/ASHLEY/dist/index.079541b2.js1727507305698951938 0
+17/root/ASHLEY/dist1727507305698951938 1
 31/root/ASHLEY/NYTIMES/scripts.js1727507307958951696 0
 36/root/ASHLEY/NYTIMES/script_world.js1727507307958951696 0
 50/root/ASHLEY/NYTIMES/.git/logs/refs/remotes/origin1727503288678968600 1
@@ -65,19 +65,9 @@
 35/root/ASHLEY/NYTIMES/.git/ORIG_HEAD1727507023278928588 0
 31/root/ASHLEY/NYTIMES/.git/index1727507105788942259 0
 37/root/ASHLEY/NYTIMES/.git/description1727503243078966398 0
-25/root/ASHLEY/NYTIMES/.git1727508390278930971 1
+25/root/ASHLEY/NYTIMES/.git1727507498338960862 1
 38/root/ASHLEY/NYTIMES/script_science.js1727507307958951696 0
-64/root/ASHLEY/NYTIMES/FONTS/typewcond_regular.otf:Zone.Identifier1727508378858938514 0
-40/root/ASHLEY/NYTIMES/FONTS/OldLondon.ttf1727507305688952000 0
-61/root/ASHLEY/NYTIMES/FONTS/typewcond_demi.otf:Zone.Identifier1727508378838938584 0
-61/root/ASHLEY/NYTIMES/FONTS/typewcond_bold.otf:Zone.Identifier1727508378828938623 0
-45/root/ASHLEY/NYTIMES/FONTS/typewcond_demi.otf1727507305698952000 0
-39/root/ASHLEY/NYTIMES/FONTS/Olondon_.otf1727507305688952000 0
-55/root/ASHLEY/NYTIMES/FONTS/Olondona.otf:Zone.Identifier1727508378828938623 0
-45/root/ASHLEY/NYTIMES/FONTS/typewcond_bold.otf1727507305688952000 0
-65/root/ASHLEY/NYTIMES/FONTS/OldLondonAlternate.ttf:Zone.Identifier1727508378858938514 0
-26/root/ASHLEY/NYTIMES/FONTS1727508378858938514 1
-20/root/ASHLEY/NYTIMES1727508378818938657 1
+20/root/ASHLEY/NYTIMES1727507998868945996 1
 50/root/ASHLEY/node_modules/source-map/lib/base64.js1727507307908951701 0
 54/root/ASHLEY/node_modules/source-map/lib/quick-sort.js1727507307908951701 0
 64/root/ASHLEY/node_modules/source-map/lib/source-map-generator.js1727507307908951701 0
@@ -258,7 +248,6 @@
 62/root/ASHLEY/node_modules/csso/node_modules/css-tree/cjs/lexer1727507307618951730 1
 76/root/ASHLEY/node_modules/csso/node_modules/css-tree/cjs/convertor/index.cjs1727507307618951730 0
 66/root/ASHLEY/node_modules/csso/node_modules/css-tree/cjs/convertor1727507307618951730 1
-55/root/ASHLEY/NYTIMES/FONTS/Olondon_.otf:Zone.Identifier1727508378838938584 0
 80/root/ASHLEY/node_modules/csso/node_modules/css-tree/cjs/syntax/pseudo/index.cjs1727507307628951731 0
 70/root/ASHLEY/node_modules/csso/node_modules/css-tree/cjs/syntax/pseudo1727507307628951731 1
 76/root/ASHLEY/node_modules/csso/node_modules/css-tree/cjs/syntax/node/Nth.cjs1727507307628951731 0
@@ -472,7 +461,6 @@
 68/root/ASHLEY/node_modules/@parcel/core/test/fixtures/invalid-targets1727507305768951931 1
 73/root/ASHLEY/node_modules/@parcel/core/test/fixtures/context/package.json1727507305768951931 0
 60/root/ASHLEY/node_modules/@parcel/core/test/fixtures/context1727507305768951931 1
-66/root/ASHLEY/NYTIMES/FONTS/Berkahi Blackletter.ttf:Zone.Identifier1727508378848938548 0
 81/root/ASHLEY/node_modules/@parcel/core/test/fixtures/targets-default-distdir-none1727507305778951929 1
 104/root/ASHLEY/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-bad-engines1727507305778951929 1
 112/root/ASHLEY/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-no-engines/index.js1727507305778951929 0
@@ -1085,7 +1073,6 @@
 89/root/ASHLEY/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeTitle.js1727507305848951921 0
 79/root/ASHLEY/node_modules/csso/node_modules/css-tree/cjs/syntax/node/Atrule.cjs1727507307628951731 0
 95/root/ASHLEY/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeUselessDefs.js1727507305858951918 0
-66/root/ASHLEY/NYTIMES/FONTS/Berkahi Blackletter.otf:Zone.Identifier1727508378818938657 0
 99/root/ASHLEY/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/moveElemsAttrsToGroup.js1727507305848951921 0
 87/root/ASHLEY/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/sortAttrs.js1727507305858951918 0
 89/root/ASHLEY/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeXMLNS.js1727507305858951918 0
@@ -1592,7 +1579,7 @@
 52/root/ASHLEY/node_modules/@lezer/common/package.json1727507305708951937 0
 57/root/ASHLEY/node_modules/caniuse-lite/data/regions/DJ.js1727507307498951745 0
 66/root/ASHLEY/node_modules/htmlnano/lib/modules/removeUnusedCss.mjs1727507307678951725 0
-35/root/ASHLEY/dist/index.fa33634d.js1727508120158945446 0
+35/root/ASHLEY/dist/index.fa33634d.js1727507305698951938 0
 75/root/ASHLEY/node_modules/css-select/node_modules/domutils/lib/index.js.map1727507307558951736 0
 54/root/ASHLEY/node_modules/@swc/helpers/cjs/_update.cjs1727507307318951764 0
 57/root/ASHLEY/node_modules/caniuse-lite/data/regions/RO.js1727507307518951742 0
@@ -1656,7 +1643,6 @@
 59/root/ASHLEY/node_modules/caniuse-lite/data/features/let.js1727507307468951748 0
 50/root/ASHLEY/node_modules/widest-line/package.json1727507307958951696 0
 57/root/ASHLEY/node_modules/caniuse-lite/data/regions/GP.js1727507307498951745 0
-56/root/ASHLEY/NYTIMES/FONTS/OldLondon.ttf:Zone.Identifier1727508378848938548 0
 84/root/ASHLEY/node_modules/css-select/node_modules/domutils/lib/manipulation.d.ts.map1727507307558951736 0
 90/root/ASHLEY/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.napi.musl.node1727507305728951932 0
 66/root/ASHLEY/node_modules/@parcel/events/test/ValueEmitter.test.js1727507305778951929 0
@@ -1947,7 +1933,6 @@
 70/root/ASHLEY/node_modules/caniuse-lite/data/features/variable-fonts.js1727507307488951744 0
 55/root/ASHLEY/node_modules/@parcel/profiler/src/types.js1727507305868951920 0
 59/root/ASHLEY/node_modules/@swc/helpers/_/_non_iterable_rest1727507307308951765 1
-50/root/ASHLEY/NYTIMES/FONTS/Berkahi Blackletter.ttf1727507305688952000 0
 51/root/ASHLEY/node_modules/css-select/lib/types.d.ts1727507307558951736 0
 57/root/ASHLEY/node_modules/caniuse-lite/data/regions/PT.js1727507307518951742 0
 79/root/ASHLEY/node_modules/caniuse-lite/data/features/registerprotocolhandler.js1727507307478951747 0
@@ -2220,7 +2205,6 @@
 66/root/ASHLEY/node_modules/caniuse-lite/data/features/use-strict.js1727507307488951744 0
 75/root/ASHLEY/NYTIMES/.git/objects/f2/4a3401d6ec8d571f14faed8748724dfc99deb71727504349518962555 0
 65/root/ASHLEY/node_modules/caniuse-lite/data/features/xhtmlsmil.js1727507307488951744 0
-49/root/ASHLEY/NYTIMES/FONTS/OldLondonAlternate.ttf1727507305688952000 0
 75/root/ASHLEY/node_modules/@parcel/runtime-js/lib/helpers/bundle-manifest.js1727507305888951915 0
 67/root/ASHLEY/node_modules/caniuse-lite/data/features/customevent.js1727507307448951750 0
 93/root/ASHLEY/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/common/List.js1727507305798951927 0
@@ -2686,7 +2670,7 @@
 40/root/ASHLEY/node_modules/to-regex-range1727507307928951699 1
 55/root/ASHLEY/node_modules/ajv/dist/runtime/timestamp.js1727507307368951759 0
 75/root/ASHLEY/node_modules/caniuse-lite/data/features/css-overflow-anchor.js1727507307448951750 0
-12/root/ASHLEY1727508367268951545 1
+12/root/ASHLEY1727507991668946227 1
 58/root/ASHLEY/node_modules/react-error-overlay/package.json1727507307878951702 0
 71/root/ASHLEY/node_modules/ansi-align/node_modules/ansi-regex/index.d.ts1727507307408951755 0
 70/root/ASHLEY/node_modules/@parcel/workers/lib/process/ProcessWorker.js1727507306778951823 0
@@ -3089,7 +3073,7 @@
 70/root/ASHLEY/node_modules/lmdb/node_modules/node-addon-api/common.gypi1727507307818951708 0
 73/root/ASHLEY/node_modules/@swc/helpers/esm/_object_destructuring_empty.js1727507307328951761 0
 47/root/ASHLEY/node_modules/widest-line/readme.md1727507307958951696 0
-40/root/ASHLEY/dist/index.1e754013.css.map1727508120158945446 0
+40/root/ASHLEY/dist/index.1e754013.css.map1727507305698951938 0
 57/root/ASHLEY/node_modules/@parcel/core/test/test-utils.js1727507305778951929 0
 57/root/ASHLEY/node_modules/css-tree/cjs/syntax/node/common1727507307588951733 1
 62/root/ASHLEY/node_modules/@parcel/workers/lib/web/WebWorker.js1727507306778951823 0
@@ -3438,7 +3422,7 @@
 50/root/ASHLEY/node_modules/fast-deep-equal/react.js1727507307668951727 0
 45/root/ASHLEY/node_modules/clipboardy/index.js1727507307528951739 0
 55/root/ASHLEY/node_modules/caniuse-lite/data/features.js1727507307428951750 0
-39/root/ASHLEY/dist/index.079541b2.js.map1727508120158945446 0
+39/root/ASHLEY/dist/index.079541b2.js.map1727507305698951938 0
 55/root/ASHLEY/node_modules/weak-lru-cache/dist/index.cjs1727507307948951695 0
 57/root/ASHLEY/node_modules/caniuse-lite/data/regions/IE.js1727507307498951745 0
 61/root/ASHLEY/node_modules/caniuse-lite/data/regions/alt-sa.js1727507307518951742 0
@@ -4103,7 +4087,7 @@
 57/root/ASHLEY/node_modules/chrome-trace-event/package.json1727507307528951739 0
 57/root/ASHLEY/node_modules/caniuse-lite/data/regions/DE.js1727507307498951745 0
 53/root/ASHLEY/node_modules/@parcel/bundler-default/lib1727507305728951932 1
-39/root/ASHLEY/dist/index.fa33634d.js.map1727508120158945446 0
+39/root/ASHLEY/dist/index.fa33634d.js.map1727507305698951938 0
 101/root/ASHLEY/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-x64-gnu.node1727507306718951829 0
 89/root/ASHLEY/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/clean/utils.js1727507305818951924 0
 55/root/ASHLEY/node_modules/semver/functions/satisfies.js1727507307888951704 0
@@ -4569,7 +4553,7 @@
 108/root/ASHLEY/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/pseudo-selectors/aliases.js1727507305788951926 0
 45/root/ASHLEY/node_modules/term-size/readme.md1727507307928951699 0
 53/root/ASHLEY/node_modules/css-tree/lib/utils/clone.js1727507307608951733 0
-45/root/ASHLEY/dist/typewcond_bold.bf826d36.otf1727508119788945437 0
+45/root/ASHLEY/dist/typewcond_bold.bf826d36.otf1727507305698951938 0
 60/root/ASHLEY/node_modules/caniuse-lite/data/features/colr.js1727507307438951751 0
 44/root/ASHLEY/node_modules/color-name/LICENSE1727507307538951741 0
 47/root/ASHLEY/node_modules/ansi-regex/index.d.ts1727507307408951755 0
@@ -4678,7 +4662,6 @@
 66/root/ASHLEY/node_modules/@mischnic/json-sourcemap/dist/index.d.ts1727507305728951932 0
 57/root/ASHLEY/node_modules/caniuse-lite/data/regions/GL.js1727507307498951745 0
 77/root/ASHLEY/node_modules/css-select/node_modules/entities/lib/esm/index.d.ts1727507307568951738 0
-39/root/ASHLEY/NYTIMES/FONTS/Olondona.otf1727507305688952000 0
 74/root/ASHLEY/node_modules/ajv/lib/vocabularies/applicator/propertyNames.ts1727507307398951756 0
 68/root/ASHLEY/node_modules/@parcel/workers/src/core-worker.browser.js1727507306778951823 0
 68/root/ASHLEY/node_modules/css-tree/lib/syntax/node/MediaQueryList.js1727507307598951734 0
@@ -5092,7 +5075,7 @@
 73/root/ASHLEY/node_modules/csso/node_modules/css-tree/cjs/walker/index.cjs1727507307628951731 0
 65/root/ASHLEY/node_modules/@swc/helpers/_/_interop_require_default1727507307308951765 1
 79/root/ASHLEY/node_modules/css-select/node_modules/domhandler/lib/index.d.ts.map1727507307558951736 0
-25/root/ASHLEY/package.json1727508068528945261 0
+25/root/ASHLEY/package.json1727507906128948534 0
 93/root/ASHLEY/node_modules/msgpackr-extract/node_modules/.bin/node-gyp-build-optional-packages1727507307838951708 0
 79/root/ASHLEY/node_modules/css-select/node_modules/domhandler/lib/esm/index.d.ts1727507307558951736 0
 45/root/ASHLEY/node_modules/regenerator-runtime1727507307888951704 1
@@ -6361,7 +6344,6 @@
 37/root/ASHLEY/node_modules/serve/build1727507307898951702 1
 42/root/ASHLEY/node_modules/serve/license.md1727507307898951702 0
 72/root/ASHLEY/node_modules/@swc/helpers/cjs/_class_private_field_init.cjs1727507307318951764 0
-50/root/ASHLEY/NYTIMES/FONTS/Berkahi Blackletter.otf1727507305688952000 0
 55/root/ASHLEY/node_modules/strip-json-comments/readme.md1727507307908951701 0
 54/root/ASHLEY/node_modules/node-releases/data/processed1727507307858951707 1
 58/root/ASHLEY/node_modules/strip-json-comments/package.json1727507307908951701 0
@@ -7245,7 +7227,6 @@
 57/root/ASHLEY/node_modules/@parcel/workers/src/cpuCount.js1727507306778951823 0
 53/root/ASHLEY/node_modules/@parcel/workers/src/threads1727507306778951823 1
 70/root/ASHLEY/node_modules/@parcel/workers/src/threads/ThreadsWorker.js1727507306778951823 0
-48/root/ASHLEY/NYTIMES/FONTS/typewcond_regular.otf1727507305698952000 0
 61/root/ASHLEY/node_modules/@parcel/workers/src/web/WebChild.js1727507306778951823 0
 96/root/ASHLEY/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeUnusedNS.js1727507305828951922 0
 62/root/ASHLEY/node_modules/@parcel/workers/src/web/WebWorker.js1727507306778951823 0

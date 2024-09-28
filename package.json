@@ -2,7 +2,7 @@
   "name": "ashley",
   "version": "1.0.0",
   "scripts": {
-    "build": "parcel build NYTIMES/index.html && cp NYTIMES/topstories_science.json dist/",
+    "build": "parcel build --public-url https://BlancheTinsleye.github.io/BUILDED_NYTimes NYTIMES/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "serve NYTIMES/"
   },
